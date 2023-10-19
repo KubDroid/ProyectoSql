@@ -6,7 +6,7 @@ CREATE TABLE practicas.MyTable
 
 INSERT INTO practicas.MyTable VALUES (123, 12345.12);  
 
-INSERT INTO practicas.`MyTable VALUES (13.10, 45);  
+INSERT INTO practicas.MyTable VALUES (13.10, 45);  
 
 SELECT MyDecimalColumn, MyNumericColumn  
 FROM practicas.MyTable;  
