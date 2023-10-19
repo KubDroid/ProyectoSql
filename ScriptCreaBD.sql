@@ -7,3 +7,5 @@ create database prueba;
 create database prueba2;
 
 show databases;
+
+//how create a readme.md?
